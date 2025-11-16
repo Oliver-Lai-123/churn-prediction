@@ -1,6 +1,6 @@
 ## 🎯 Project Overview
 
-Predicting customer churn for a telecom company using machine learning to identify high-risk customers and optimize retention campaigns. This end-to-end project demonstrates the complete data science workflow from data cleaning to business recommendations.
+Predicting customer churn for a telecom company using machine learning to identify high-risk customers and optimize retention campaigns. This project demonstrates the  data science workflow from data cleaning to business recommendations.
 
 ## 📈 Key Results
 
